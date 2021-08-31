@@ -393,3 +393,6 @@ sm_client.delete_endpoint(EndpointName=endpoint_name)
 ```
 
 <a href="https://github.com/aws/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/sparkml_serving_emr_mleap_abalone"> Reference </a>
+
+
+check article on <a href="https://dev.to/aws-builders/train-an-ml-model-using-apache-spark-in-emr-and-deploy-in-sagemaker-3332">  DevCommunity </a>
